@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed</h1>
-<h3 align="center">Im interested in game development and algorithms</h3>
+<h3 align="center">I am interested in game development and algorithms</h3>
 
 - 🌱 I’m currently learning **Unreal Engine**
 
