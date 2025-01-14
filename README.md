@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed</h1>
-<h3 align="center">I am interested in programming and algorithms</h3>
+<h3 align="center"> Programming & algorithms</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
