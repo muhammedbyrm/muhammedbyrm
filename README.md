@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammed</h1>
 <h3 align="center">
-3D Software Engineer | Computer Graphics | C++ | Unity
+3D Software Engineer | Computer Graphics | C++ 
 </h3>
 
 ---
