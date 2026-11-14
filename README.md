@@ -8,6 +8,5 @@
 ## 🚀 About Me
 
 - 3D Reconstruction, Computer Graphics, and Real-time Systems
-- Experience with C++, OpenCV, and Unity
 - Interested in simulation, rendering, and visualization systems
 
