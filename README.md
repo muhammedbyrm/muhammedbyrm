@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 3D Reconstruction, Computer Graphics, and Real-time Systems
 - Interested in simulation, rendering, and visualization systems
